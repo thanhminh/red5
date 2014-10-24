@@ -1,0 +1,212 @@
+STATUS | wrapper  | 2014/10/09 14:30:44 | Red5 installed.
+STATUS | wrapper  | 2014/10/09 20:40:52 | --> Wrapper Started as Service
+STATUS | wrapper  | 2014/10/09 20:40:52 | Java Service Wrapper Community Edition 32-bit 3.3.6
+STATUS | wrapper  | 2014/10/09 20:40:52 |   Copyright (C) 1999-2009 Tanuki Software, Ltd.  All Rights Reserved.
+STATUS | wrapper  | 2014/10/09 20:40:52 |     http://wrapper.tanukisoftware.org
+STATUS | wrapper  | 2014/10/09 20:40:52 | 
+STATUS | wrapper  | 2014/10/09 20:40:53 | Launching a JVM...
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager: 
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager: WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           The file is located on the path at the following location but
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           could not be loaded:
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:             D:\Red5\lib\wrapper.dll
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           Please verify that the file is readable by the current user
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           and that the file has not been corrupted in any way.
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           One common cause of this problem is running a 32-bit version
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           of the Wrapper with a 64-bit version of Java, or vica versa.
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           This is a 64-bit JVM.
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           Reported cause:
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:             D:\Red5\lib\wrapper.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2014/10/09 20:40:56 | WrapperManager: 
+INFO   | jvm 1    | 2014/10/09 20:40:56 | Red5 root: D:/Red5
+INFO   | jvm 1    | 2014/10/09 20:40:56 | Configuation root: D:/Red5/conf
+INFO   | jvm 1    | 2014/10/09 20:40:56 | Setting temp directory to C:\Users\Default\AppData\Red5
+INFO   | jvm 1    | 2014/10/09 20:40:56 | Red5 server jar was found
+INFO   | jvm 1    | 2014/10/09 20:40:56 | URL list: [file:/D:/Red5/red5-server-1.0.jar]
+INFO   | jvm 1    | 2014/10/09 20:40:56 | Selected libraries: (55 items)
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/red5-server-1.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/bcprov-jdk15on-1.47.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.javax.xml.stream-1.0.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.net.sf.cglib-2.2.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.antlr-3.1.3.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.aopalliance-1.0.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.apache.xerces-2.9.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.codehaus.groovy-1.7.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.mozilla.javascript-1.7.0.R2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.objectweb.asm-3.2.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/com.springsource.org.objectweb.asm.commons-3.2.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-beanutils-1.8.3.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-codec-1.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-collections-3.2.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-lang3-3.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-modeler-2.0.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/commons-pool-1.5.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/ehcache-core-2.5.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/httpclient-4.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/httpcore-4.2.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/jaudiotagger-2.0.4-SNAPSHOT.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/javaee-api-5.1.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/jcl-over-slf4j-1.6.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/jruby-1.6.7.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/jul-to-slf4j-1.6.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/jython-standalone-2.5.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/log4j-over-slf4j-1.6.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/logback-classic-1.0.3.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/logback-core-1.0.3.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/mina-core-2.0.7.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/mina-integration-beans-2.0.7.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/mina-integration-jmx-2.0.7.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/quartz-1.8.5.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/red5-client-1.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/slf4j-api-1.6.6.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-aop-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-asm-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-beans-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-context-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-context-support-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-core-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-expression-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/spring-web-3.1.1.RELEASE.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/sysout-over-slf4j-1.0.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/wrapper.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/lib/xmlrpc-2.0.1.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/conf/
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/catalina-6.0.36.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/ecj-3.7.2.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/jasper-6.0.36.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/jasper-el-6.0.36.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/tomcat-coyote-6.0.36.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/tomcat-juli-slf4j-1.5.0.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | file:/D:/Red5/plugins/tomcatplugin-1.3.jar
+INFO   | jvm 1    | 2014/10/09 20:40:56 | 
+INFO   | jvm 1    | 2014/10/09 20:40:57 | Root: D:/Red5
+INFO   | jvm 1    | 2014/10/09 20:40:57 | Deploy type: bootstrap
+INFO   | jvm 1    | 2014/10/09 20:40:57 | Logback selector: org.red5.logging.LoggingContextSelector
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,208 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,208 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,208 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/D:/Red5/conf/logback.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,223 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,223 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/D:/Red5/conf/logback.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:02,223 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/D:/Red5/conf/logback.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,097 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,159 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,159 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,206 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,409 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,409 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,409 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,409 |-INFO in ch.qos.logback.core.FileAppender[FILE] - File property is set to [log/red5.log]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.action.LevelAction - ROOT level set to INFO
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [FILE] to Logger[ROOT]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.action.LevelAction - org.springframework level set to INFO
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.action.LevelAction - org.apache level set to INFO
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.action.LevelAction - ch.qos level set to WARN
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 20:41:03,471 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@6fee5635 - Registering current configuration as safe fallback point
+INFO   | jvm 1    | 2014/10/09 20:41:03 | 
+INFO   | jvm 1    | 2014/10/09 20:41:03 | Setting default logging context: default
+INFO   | jvm 1    | 2014/10/09 20:41:03 | [INFO] [WrapperSimpleAppMain] org.red5.server.Launcher - Red5 Server 1.0.1 $Rev: 4450 $ (http://code.google.com/p/red5/)
+INFO   | jvm 1    | 2014/10/09 20:41:03 | Red5 Server 1.0.1 $Rev: 4450 $ (http://code.google.com/p/red5/)
+INFO   | jvm 1    | 2014/10/09 20:41:03 | SLF4J: Class path contains multiple SLF4J bindings.
+INFO   | jvm 1    | 2014/10/09 20:41:03 | SLF4J: Found binding in [jar:file:/D:/Red5/red5-server-1.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | SLF4J: Found binding in [jar:file:/D:/Red5/lib/logback-classic-1.0.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+INFO   | jvm 1    | 2014/10/09 20:41:03 | SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+INFO   | jvm 1    | 2014/10/09 20:41:03 | SLF4J: Actual binding is of type [org.red5.logging.LoggingContextSelector]
+INFO   | jvm 1    | 2014/10/09 20:41:04 | [INFO] [WrapperSimpleAppMain] org.springframework.context.support.FileSystemXmlApplicationContext - Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@23e5da1d: startup date [Thu Oct 09 20:41:03 ICT 2014]; root of context hierarchy
+INFO   | jvm 1    | 2014/10/09 20:41:04 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [red5.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:05 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [jee-container.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:06 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from class path resource [red5.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:06 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@71cc2368: defining beans [placeholderConfig,red5.common,red5.core,context.loader,pluginLauncher,tomcat.server]; root of factory hierarchy
+INFO   | jvm 1    | 2014/10/09 20:41:06 | [INFO] [WrapperSimpleAppMain] org.springframework.context.support.FileSystemXmlApplicationContext - Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@18244c45: startup date [Thu Oct 09 20:41:06 ICT 2014]; root of context hierarchy
+INFO   | jvm 1    | 2014/10/09 20:41:06 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [red5-common.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:07 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from class path resource [red5.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:07 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@64cce697: defining beans [placeholderConfig,red5.server,rmiRegistry,mbeanServer,org.springframework.jmx.support.ConnectorServerFactoryBean#0,mbeanExporter,serializer,deserializer,minaEncoder,minaDecoder,statusObjectService,rtmpCodecFactory,rtmptCodecFactory,remotingCodecFactory,streamableFileFactory,filePersistenceThread,sharedObjectService,streamService,providerService,consumerService,schedulingService,warDeployService,remotingClient,object.cache,keyframe.cache,flv.impl,flvreader.impl,mp4reader.impl,mp3reader.impl,org.springframework.beans.factory.config.MethodInvokingFactoryBean#0,org.springframework.beans.factory.config.MethodInvokingFactoryBean#1,streamExecutor,fileConsumer,playlistSubscriberStream,clientBroadcastStream]; root of factory hierarchy
+INFO   | jvm 1    | 2014/10/09 20:41:07 | [INFO] [WrapperSimpleAppMain] org.springframework.remoting.rmi.RmiRegistryFactoryBean - Creating new RMI registry
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.support.ConnectorServerFactoryBean - JMX connector server started: javax.management.remote.rmi.RMIConnectorServer@1198f101
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Bean with name 'org.springframework.jmx.support.ConnectorServerFactoryBean#0' has been autodetected for JMX exposure
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.core.QuartzScheduler - Quartz Scheduler v.1.8.5 created.
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v1.8.5) 'Red5_Scheduler' with instanceId 'ASUS-PC1412862068463'
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   NOT STARTED.
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   Currently in standby mode.
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   Number of jobs executed: 0
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 4 threads.
+INFO   | jvm 1    | 2014/10/09 20:41:08 |   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+INFO   | jvm 1    | 2014/10/09 20:41:08 | 
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'Red5_Scheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 1.8.5
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.quartz.core.QuartzScheduler - Scheduler Red5_Scheduler_$_ASUS-PC1412862068463 started.
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Bean with name 'schedulingService' has been autodetected for JMX exposure
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Bean with name 'clientBroadcastStream' has been autodetected for JMX exposure
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Located MBean 'org.springframework.jmx.support.ConnectorServerFactoryBean#0': registering with JMX server as MBean [org.red5.server:name=org.springframework.jmx.support.ConnectorServerFactoryBean#0,type=RMIConnectorServer]
+INFO   | jvm 1    | 2014/10/09 20:41:08 | [INFO] [WrapperSimpleAppMain] org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Located MBean 'schedulingService': registering with JMX server as MBean [org.red5.server:name=schedulingService,type=QuartzSchedulingService]
+INFO   | jvm 1    | 2014/10/09 20:41:11 | [INFO] [WrapperSimpleAppMain] org.red5.server.service.WarDeployer - War deployer service created
+INFO   | jvm 1    | 2014/10/09 20:41:12 | [INFO] [WrapperSimpleAppMain] org.springframework.context.support.FileSystemXmlApplicationContext - Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@5b17b509: startup date [Thu Oct 09 20:41:12 ICT 2014]; parent: ApplicationContext 'red5.common'
+INFO   | jvm 1    | 2014/10/09 20:41:12 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [red5-core.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:12 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from class path resource [red5.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@425fdbde: defining beans [customEditorConfigurer,placeholderConfig,rtmpMinaConnManager,rtmpHandler,rtmpMinaIoHandler,rtmpTransport,rtmpMinaConnection,rtmptConnManager,rtmptHandler,rtmptServlet,rtmptConnection]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@64cce697
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.net.rtmp.RTMPMinaTransport - RTMP Mina Transport bound to /127.0.0.1:1935
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.net.rtmp.RTMPMinaTransport - RTMP Mina Transport Settings
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.net.rtmp.RTMPMinaTransport - I/O Threads: 16
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.net.rtmp.RTMPMinaTransport - TCP No Delay: true
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.net.rtmp.RTMPMinaTransport - Settings - send buffer size: 65536 recv buffer size: 65536 so linger: -1 traffic class: 24
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.ContextLoader - ContextLoader init
+INFO   | jvm 1    | 2014/10/09 20:41:13 | [INFO] [WrapperSimpleAppMain] org.red5.server.ContextLoader - Loading: default.context = ${red5.root}/webapps/red5-default.xml => D:/Red5/webapps/red5-default.xml
+INFO   | jvm 1    | 2014/10/09 20:41:14 | [INFO] [WrapperSimpleAppMain] org.springframework.context.support.FileSystemXmlApplicationContext - Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@382376d0: startup date [Thu Oct 09 20:41:13 ICT 2014]; parent: ApplicationContext 'red5.common'
+INFO   | jvm 1    | 2014/10/09 20:41:14 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\Red5\webapps\red5-default.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:14 | [INFO] [WrapperSimpleAppMain] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4cbde97a: defining beans [global.clientRegistry,global.serviceInvoker,global.mappingStrategy,global.context,global.handler,global.scope,red5.scopeResolver]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@64cce697
+INFO   | jvm 1    | 2014/10/09 20:41:14 | [INFO] [WrapperSimpleAppMain] org.red5.server.Context - Setting parent bean factory as core
+INFO   | jvm 1    | 2014/10/09 20:41:15 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Setting connector: org.apache.catalina.connector.Connector
+INFO   | jvm 1    | 2014/10/09 20:41:15 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Address to bind: /127.0.0.1:5080
+INFO   | jvm 1    | 2014/10/09 20:41:15 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Loading tomcat context
+INFO   | jvm 1    | 2014/10/09 20:41:15 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Server root: D:/Red5
+INFO   | jvm 1    | 2014/10/09 20:41:15 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Config root: D:/Red5/conf
+INFO   | jvm 1    | 2014/10/09 20:41:16 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Application root: D:/Red5/webapps
+INFO   | jvm 1    | 2014/10/09 20:41:16 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Starting Tomcat servlet engine
+INFO   | jvm 1    | 2014/10/09 20:41:16 | [INFO] [WrapperSimpleAppMain] org.apache.catalina.startup.Embedded - Starting tomcat server
+INFO   | jvm 1    | 2014/10/09 20:41:17 | [INFO] [WrapperSimpleAppMain] org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/6.0.36
+INFO   | jvm 1    | 2014/10/09 20:41:17 | [INFO] [WrapperSimpleAppMain] org.apache.catalina.realm.JAASRealm - Set JAAS app name red5Engine
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [WrapperSimpleAppMain] org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [WrapperSimpleAppMain] org.apache.coyote.http11.Http11NioProtocol - Initializing Coyote HTTP/1.1 on http-127.0.0.1-5080
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [WrapperSimpleAppMain] org.apache.coyote.http11.Http11NioProtocol - Starting Coyote HTTP/1.1 on http-127.0.0.1-5080
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [WrapperSimpleAppMain] org.red5.server.tomcat.TomcatLoader - Dedicated RTMPT server configuration was not specified
+INFO   | jvm 1    | 2014/10/09 20:41:19 | Bootstrap complete
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/] org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Oct 09 20:41:19 ICT 2014]; parent: org.springframework.context.support.FileSystemXmlApplicationContext@382376d0
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/live] org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Oct 09 20:41:19 ICT 2014]; parent: org.springframework.context.support.FileSystemXmlApplicationContext@382376d0
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/installer] org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Oct 09 20:41:19 ICT 2014]; parent: org.springframework.context.support.FileSystemXmlApplicationContext@382376d0
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/vod] org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Oct 09 20:41:19 ICT 2014]; parent: org.springframework.context.support.FileSystemXmlApplicationContext@382376d0
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/vod] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/red5-web.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/installer] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/red5-web.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/red5-web.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/live] org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/red5-web.xml]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from ServletContext resource [/WEB-INF/red5-web.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/live] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from ServletContext resource [/WEB-INF/red5-web.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/vod] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from ServletContext resource [/WEB-INF/red5-web.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/installer] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from ServletContext resource [/WEB-INF/red5-web.properties]
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@301f9d62: defining beans [placeholderConfig,web.context,web.scope]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4cbde97a
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/live] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@60ea2e4d: defining beans [placeholderConfig,web.context,web.scope,web.handler]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4cbde97a
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/vod] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@526b901: defining beans [placeholderConfig,web.context,web.scope,web.handler]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4cbde97a
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/installer] org.springframework.beans.factory.support.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2dabdbf2: defining beans [placeholderConfig,web.context,web.scope,web.handler,installer.service]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4cbde97a
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/live] org.red5.server.Context - Setting parent bean factory as core
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/] org.red5.server.Context - Setting parent bean factory as core
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/installer] org.red5.server.Context - Setting parent bean factory as core
+INFO   | jvm 1    | 2014/10/09 20:41:19 | [INFO] [Launcher:/vod] org.red5.server.Context - Setting parent bean factory as core
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/live] org.red5.server.scope.WebScope - Set server [Server@62bb3040map[[empty]]]
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/] org.red5.server.scope.WebScope - Set server [Server@62bb3040map[[empty]]]
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/installer] org.red5.server.scope.WebScope - Set server [Server@62bb3040map[[empty]]]
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/vod] org.red5.server.scope.WebScope - Set server [Server@62bb3040map[[empty]]]
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/] org.red5.server.Server - Add mapping global: default host:  context: 
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [WARN] [Launcher:/] org.red5.server.scope.Scope - Invalid scope was not added: [WebScope@78865c1d Depth = 1, Path = '/default', Name = '']
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/live] org.red5.server.Server - Add mapping global: default host:  context: live
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/vod] org.red5.server.Server - Add mapping global: default host:  context: vod
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/installer] org.red5.server.Server - Add mapping global: default host: localhost context: installer
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/installer] org.red5.server.Server - Add mapping global: default host: localhost:5080 context: installer
+INFO   | jvm 1    | 2014/10/09 20:41:20 | [INFO] [Launcher:/installer] org.red5.server.service.Installer - Installer service created
+STATUS | wrapper  | 2014/10/09 20:48:17 | <-- Wrapper Stopped
